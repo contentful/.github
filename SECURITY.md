@@ -2,14 +2,13 @@
 
 Security at Contentful
 
-Security being just important to us is a huge understatement.
-Security is a top priority at Contentful and we live it in our day-to-day activities.
+Security being just important to us is a huge understatement. Security is a top priority at Contentful and we live it in our day-to-day activities.
 
-If you believe you have found a security vulnerability in any Contentful-owned repository , please report it to us as described below.
+If you believe you have found a security vulnerability in any Contentful-owned repository, please report it to us as described below.
 
 ## Supported Versions
 
-Refer to individual repostries for supported versions.
+Refer to individual repositories for supported versions.
 
 ## Reporting a Vulnerability
 
@@ -28,8 +27,6 @@ Please include the requested information listed below (as much as you can provid
   * Impact of the issue, including how an attacker might exploit the issue
 
 This information will help us triage your report more quickly.
-
-Note that *.learningcenter.contentful.com is out of scope for our bounty program.
 
 Report security vulnerabilities in third-party modules to the person or team maintaining the module.
 
