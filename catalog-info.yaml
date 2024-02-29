@@ -1,0 +1,18 @@
+# Backstage documentation
+# https://backstage.io/docs/features/software-catalog/descriptor-format/
+
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: .github 
+  description: Repo for storing community health files
+  annotations:
+    github.com/project-slug: contentful/.github 
+    contentful.com/service-tier: "4" 
+
+  tags:
+    - tier-4
+spec:
+  type: documentation 
+  lifecycle: production  
+  owner: group:team-security 
